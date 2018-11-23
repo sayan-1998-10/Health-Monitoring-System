@@ -3,3 +3,5 @@
 
 Data collected and sent over to cloud-->
 https://thingspeak.com/channels/613062
+(-999 is the default gatbage value)
+
